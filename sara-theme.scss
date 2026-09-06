@@ -11,9 +11,9 @@ $accent-green:  #374f2f !default;
 
 $body-bg:        $white;
 $body-color:     $navy-blue;
-$link-color:     $accent-teal;
-$link-color-hover: lighten($accent-teal, 10%);
-$selection-bg:   lighten($accent-teal, 40%);
+$link-color:     $accent-red;
+$link-color-hover: lighten($accent-red, 10%);
+$selection-bg:   lighten($accent-teal, 10%);
 
 $presentation-heading-color: $navy-blue;
 $presentation-heading-font:  "Poppins", sans-serif;
@@ -34,21 +34,11 @@ $code-block-bg: #f2f2f2;
   }
 
   h1 { color: $navy-blue; }
-  h2, h3 { color: $accent-teal; }
+  h2 { color: $accent-teal; }
+  h3 { color: $accent-red; }
+  h4 { color: $navy-blue; }
 }
 
-// Title slide
-.reveal .slides section.title-slide,
-.reveal .title-slide {
-  text-align: center;
-
-  h1.title { color: $navy-blue; }
-
-  p.subtitle {
-    color: $accent-teal;
-    font-style: italic;
-  }
-}
 
 // Cursive accent text (e.g. greetings / thank-you slides)
 .theme-cursive {
@@ -87,17 +77,20 @@ $code-block-bg: #f2f2f2;
 
 .card {
   padding: 2rem;
-  border-top: 8px solid;
+  //border-top: 8px solid;
   border-radius: 0.5rem; 
   box-shadow: 0 1rem 1.5rem -0.5rem rgba(0 50 100 / 0.15);
   background: #eaedf0;
   text-align: center;
   font-size: 1.5rem;
+
+h3 { color: $navy-blue; }
+
 }
 
 /* On mouse-over, add a deeper shadow */
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(137, 207, 240);
+  box-shadow: 0 8px 16px 0 rgb(220, 220, 220);
 }
 
 .layout-grid {
@@ -124,4 +117,63 @@ $code-block-bg: #f2f2f2;
 
 // ─────────────────────────────────────────────
 // SPEAKERS CARDS end here
+// ─────────────────────────────────────────────
+
+
+// ─────────────────────────────────────────────
+// FINANCE TABLE starts here
+// ─────────────────────────────────────────────
+
+// FINANCE TABLE (donations & expenses)
+// Usage:
+// :::{.finance-table}
+// | Category | Amount (₹) |
+// |---|---|
+// | Donations Received | 38,000 |
+// | Expenses | -38,250 |
+// :::
+// To color specific amounts, wrap the number in a span with class
+// .amount-positive (donations) or .amount-negative (expenses), e.g.
+// [₹38,000]{.amount-positive} or [-₹38,250]{.amount-negative}
+// ================================================================
+.finance-table {
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.75em;
+    margin-top: 0.5em;
+  }
+ 
+  thead {
+    background-color: $navy-blue;
+    color: $white;
+  }
+ 
+  th {
+    padding: 0.5em 0.8em;
+    text-align: left;
+    font-weight: 600;
+  }
+ 
+  td {
+    padding: 0.45em 0.8em;
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+  }
+ 
+  tbody tr:nth-child(even) {
+    background-color: rgba(27,77,62,0.05);
+  }
+ 
+  tbody tr:hover {
+    background-color: rgba(201,154,46,0.12);
+  }
+}
+ 
+// Explicit helper classes if you prefer manual control per cell/row
+.amount-positive { color: $accent-teal; font-weight: 600; }
+.amount-negative { color: $accent-red; font-weight: 600; }
+ 
+
+// ─────────────────────────────────────────────
+// FINANCE TABLE ends here
 // ─────────────────────────────────────────────

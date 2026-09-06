@@ -1,0 +1,629 @@
+---
+title: "SARA Jai Bhim Circle"
+subtitle: "2nd Quarter Meeting, 2026-27"
+date: last-modified
+date-format: full
+format:
+  revealjs:
+    theme: [default, sara-theme.scss]
+    logo: images/sara-logo-small.png
+    slide-number: true
+    incremental: false
+    menu: true
+    scrollable: true
+    transition: slide
+    lightbox: true
+filters:
+   - roughnotation    
+title-slide-attributes: 
+  data-background-image: "https://images.unsplash.com/vector-1773253588344-b80c5db0b204?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  data-background-size: cover
+  data-background-position: "bottom -525px left -1px"
+---
+
+## Welcome {.centering}
+
+<br>
+
+:::: {.layout-grid}
+
+::: {.col}
+::: {.card}
+![](images/ajay.jpeg)
+
+Presenter
+
+### **Dr. Ajay Koli** $\cdot$ [{{< iconify fa6-brands linkedin >}}](https://www.linkedin.com/in/ajay-kumar-koli/)
+::: 
+:::
+
+::: {.col}
+
+![](images/sara-logo-medium.png){width="60%"}
+
+::: {.r-fit-text .fragment}
+Introductions (5 min)  
+About SARA (20-25 min)  
+Discussion (45-50 min)  
+Insights (10 min)
+:::
+
+:::
+
+::: {.col}
+::: {.card}
+![](images/ceci.jpg)
+
+Moderator
+
+###  **Dr. Cecilia** $\cdot$ [{{< iconify fa6-brands linkedin >}}](https://www.linkedin.com/in/cecilia-baldoni/)
+:::
+::: 
+
+::::
+
+# <br>Introduction {background-image="images/sara-logo-medium.png" background-size="15%" background-position="50% 25%" visibility="hidden"}
+
+## {.centering .center}
+
+::: {.columns}
+
+::: {.column width="35%"}
+
+![](images/savi.png){fig-alt="Sara's headshot" fig-align="center" width=250px style="border-radius: 50%;"}
+
+#### Savitribai Phule (1831-1897)<br>🪷🙏🏽🪷
+
+:::
+
+
+::: {.column width="20%"}
+
+<br>
+
+![](images/sara-logo-medium.png)
+
+:::
+
+::: {.column width="35%"}
+
+![](images/ramai.png){fig-alt="Sara's headshot" fig-align="center" width=250px style="border-radius: 50%;"}
+
+#### Ramabai Ambedkar (1898-1935)<br>🪷🙏🏽🪷
+
+:::
+
+[**Savitribai Ramabai (SARA) Institute of Data Science, Sonipat**]{.r-fit-text}
+
+:::
+---
+
+## SARA Education Trust {background-image="images/trustees.png" background-size="50%" background-position="109% 50%"}
+
+> Education for Everyone.
+
+
+::: {.columns}
+
+::: {.column}
+
+::: {.nonincremental}
+
+- 9 community members founded SARA in Apr 2023.
+
+- Free^1^, open-source and inclusive education.
+
+- Date of Trust Reg.: 02 Mar 2024.
+
+- Around 300 students taught.
+
+::: aside
+^1^No tuition fee. Students pay for their food and accommodation.
+:::
+
+:::
+
+:::
+
+::: {.column}
+
+:::
+
+:::
+
+# SARA Data<br>Trainings {background-image="images/sahu-laptop.png, https://images.unsplash.com/vector-1773253588344-b80c5db0b204?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="27%" background-position="85% 50%" background-color="#003366"}
+
+::: footer
+<a href="https://unsplash.com/illustrations/colorful-wildflowers-blooming-against-a-white-background-0JYOM33b8Yw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Illustration</a> by <a href="https://unsplash.com/@pragatichoudhari/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pragati Choudhari</a> on <a href="https://unsplash.com/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+<a href="https://unsplash.com/illustrations/a-cartoon-triangle-character-using-a-laptop-NolacJp8Xqg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Illustration</a> by <a href="https://unsplash.com/@aditya_sahu_lab/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Sahu</a> on <a href="https://unsplash.com/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+:::
+---
+
+## SARA Data Schools
+
+<br>
+<br>
+
+- 07 Non-profit^1^ schools 
+
+- Overcome the fear of coding & numbers
+
+- Offline, PhD students, reputed pro bono speakers
+
+::: {.aside}
+^1^ Participants pay only for their food and accommodation.
+:::
+---
+
+## SARA Data Schools {background-color="#212121"}
+
+::: {.panel-tabset}
+
+### Summer School
+
+::: {#fig-summer layout-ncol=2 layout-valign="bottom"}
+
+![1st, 22-26, July 2024](images/summer-students1.jpeg){#fig-surus}
+
+![2nd, 25-29, July 2025](images/summer-students2.png){#fig-hanno}
+
+Participants of the SARA Summer Schools "R for Researchers"
+:::
+
+### Winter School 
+
+::: {#fig-winter layout-ncol=2 layout-valign="bottom"}
+
+![1st, 16-20, Dec 2024](images/winter-students1.jpeg){#fig-surus}
+
+![2nd, 23-27,  Jan 2026](images/winter-students2.jpeg){#fig-hanno}
+
+Participants of the SARA Winter Schools "Statistics using R"
+:::
+
+### Bootcamp
+
+🎉Completely free for all women in celebration of International Women’s Day
+
+::: {#fig-bootcamp layout-ncol=2 layout-valign="bottom"}
+
+![1st, 3-7, March 2025](images/bootcamp-students1.jpeg){#fig-surus}
+
+![2nd, 20-22, March 2026](images/bootcamp-students2.png){#fig-hanno}
+
+Participants of the SARA Coding Bootcamps "Publish using Quarto"
+
+:::
+
+::: 
+---
+
+## 3rd SARA Summer School {background-image="images/3sss.png" background-size="40%" background-position="100% 50%" background-color="#212121"}
+
+> "R for Researchers" 22-26 Jul 2026
+
+::: {.columns}
+
+::: {.column width="60%"}
+
+<br>
+
+- 10 participants attended.
+
+- 07 participants received full scholarship
+
+<br>
+
+![](images/speakers-3sss.png)
+
+:::
+
+::: {.column}
+
+:::
+
+:::
+---
+
+## SARA Guest Speakers {background-image="images/guest-speakers.png" background-size="contain" background-position="right"}
+
+> Pro bono speakers during 2025-26
+
+<br>
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/guest-speakers-details.png){fig-align="left"}
+
+:::
+
+::: {.column}
+
+:::
+
+:::
+---
+
+## 🔊🔊🔊3rd SARA Winter School {background-image="images/3sws.png" background-size="40%" background-position="100% 50%"}
+
+> "Statistics using R" in 20-24 Nov 2026
+
+::: {.columns}
+
+::: {.nonincremental}
+
+::: {.column width="60%"}
+
+- Day 1: R, RStudio & descriptive statistics
+
+- Day 2: Date Visualization
+
+- Day 3: Probability & Sampling
+
+- Day 4: Inferential Statistics Hypothesis testing
+
+- Day 5: Correlation and Regression
+
+:::
+:::
+
+::: {.column}
+
+:::
+
+:::
+
+## 🚨Help SARA! {background-image="images/help.png" background-size="20%" background-position="85% 50%"}
+
+<br>
+<br>
+<br>
+
+::: {.columns}
+
+::: {.column width=60%}
+
+1. What more do we need to add in our data school modules?
+
+1. Should SARA approach other organisations to get sponsorship or donation? Can you help with this?
+
+:::
+
+::: {.column}
+
+:::
+
+:::
+
+::: {.footer}
+<a href="https://unsplash.com/illustrations/two-people-holding-a-blue-heart-in-their-hands-pJwFA-hi-Jc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Illustration</a> by <a href="https://unsplash.com/@roundicons/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Round Icons</a> on <a href="https://unsplash.com/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+:::
+
+# SARA Bridge<br>Education {background-image="images/sahu-notebook.png, https://images.unsplash.com/vector-1773253588344-b80c5db0b204?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="27%" background-position="85% 50%" background-color="#003366"}
+
+::: footer
+<a href="https://unsplash.com/illustrations/a-cartoon-triangle-character-using-a-laptop-NolacJp8Xqg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Illustration</a> by <a href="https://unsplash.com/@aditya_sahu_lab/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Sahu</a> on <a href="https://unsplash.com/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+:::
+
+## Bridge Education {background-image="images/bridge-course.png" background-position="right" background-size="contain"}
+
+> Level 1 $\cdot$ Free $\cdot$  Online $\cdot$ Open to all
+
+::: {.nonincremental}
+- For first-generation learners.
+
+- Essential subjects like: 
+  - Maths
+  - Science
+  - Social Science
+  - English language
+  - General Knowledge etc.
+
+
+::: {.footer}
+[{{< iconify fa6-brands youtube >}} SARA YouTube Channel](https://www.youtube.com/@SARADataScience)
+:::
+
+:::
+---
+
+## SARA Book Club {background-image="images/book-donation.png" background-size="contain" background-position="right" background-color="#212121"}
+
+> 26/40 Books for Bridge Course Level 1
+
+<br>
+
+{{< video https://youtu.be/3FiG1TcJ1f8?si=1qTkjyaMRy1g7A9f width="550" height="300" >}}
+
+[{{< iconify octicon:rocket-16 >}} Click to donate books](https://sara-edu.netlify.app/book-club/books-donation/sara_book_donations)
+
+---
+
+## 🚨Help SARA! {background-image="images/help.png" background-size="20%" background-position="85% 50%"}
+
+<br>
+<br>
+
+::: {.columns}
+
+::: {.column width=65%}
+
+1. Whether to conduct bridge course classes live on YouTube or first on zoom and then later upload on YouTube?
+
+1. What should be the prefered language for these online classes?
+
+1. Would you like to teach or know anyone who might be interested in pro bono teaching?
+
+:::
+
+::: {.column}
+
+:::
+
+:::
+
+::: {.footer}
+<a href="https://unsplash.com/illustrations/two-people-holding-a-blue-heart-in-their-hands-pJwFA-hi-Jc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Illustration</a> by <a href="https://unsplash.com/@roundicons/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Round Icons</a> on <a href="https://unsplash.com/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+:::
+
+# SARA<br>Finance {background-image="images/sahu-safe.png, https://images.unsplash.com/vector-1773253588344-b80c5db0b204?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="27%" background-position="80% 50%" background-color="#003366"}
+
+::: footer
+<a href="https://unsplash.com/illustrations/a-cartoon-triangle-character-using-a-laptop-NolacJp8Xqg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Illustration</a> by <a href="https://unsplash.com/@aditya_sahu_lab/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Sahu</a> on <a href="https://unsplash.com/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+:::
+
+## SARA 
+
+<br>
+<br>
+
+- SARA Trust registered in New Delhi on Date: `02 Mar 2024`
+
+- Permanent Account Number (PAN) Card: `ABJTS0156P`
+
+- Trust Bank Account: SBI Sonipat, HR
+
+## Previous IT Returns {background-color="#212121"}
+
+> ❤️Community members are the main donors $\cdot$ 99% online transactions
+
+::: {.centering}
+::: {layout-ncol="2"}
+
+![Tax Returns Filed for Year 2024-25](images/returns-24-25.png){width="70%"}
+
+![Tax Returns Filed for Year 2025-26](images/returns-24-25.png){width="70%"}
+
+:::
+:::
+
+
+## SARA Account {background-image="images/blankets.png" background-size="50%" background-position="109% 50%"}
+
+> Apr-Sep 2026
+
+<br>
+
+::: {.columns}
+
+::: {.column}
+
+:::{.finance-table}
+| Category | Amount |
+|---|--------------|
+| Donations | [₹2,00,000]{.amount-positive} approx. |
+| Expenses  | [₹2,50,000]{.amount-negative} approx. |
+| Balance   | ₹1,01200 approx. |
+:::
+
+::: {.aside}
+- Amount carried from 2025-26: ₹1,52,611
+- Dr. Ajay Kumar Koli's per month salary ₹15,000.
+- On 6 Jul 2026, SARA's 12A & 80G Applications were submitted by a CA on the Income Tax department website.
+:::
+
+:::
+
+::: {.column}
+
+:::
+
+:::
+
+## Donate to SARA {background-image="images/upi-sara.png" background-position="right" background-size="contain"}
+
+::: {.columns}
+
+::: {.column}
+
+> No amount is too small.
+
+<br>
+
+::: {.nonincremental}
+
+- Account number: `42920911856`
+
+- Acc. name: SARA Education Trust
+
+- Bank name: State Bank of India
+
+- IFSC code: `SBIN0000721`
+
+:::
+
+:::
+
+::: {.column}
+
+:::
+
+:::
+
+## 🚨Help SARA! {background-image="images/help.png" background-size="20%" background-position="85% 50%"}
+
+<br>
+<br>
+<br>
+<br>
+
+::: {.columns}
+
+::: {.column width=65%}
+
+1. Should SARA buy its own land to build its own space? What should we be worry about?
+
+:::
+
+::: {.column}
+
+:::
+
+:::
+
+::: {.footer}
+<a href="https://unsplash.com/illustrations/two-people-holding-a-blue-heart-in-their-hands-pJwFA-hi-Jc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Illustration</a> by <a href="https://unsplash.com/@roundicons/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Round Icons</a> on <a href="https://unsplash.com/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+:::
+
+
+# SARA<br>Community {background-image="images/sahu-community.png, https://images.unsplash.com/vector-1773253588344-b80c5db0b204?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="30%" background-position="80% 50%" background-color="#003366"}
+
+::: footer
+<a href="https://unsplash.com/illustrations/a-cartoon-triangle-character-using-a-laptop-NolacJp8Xqg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Illustration</a> by <a href="https://unsplash.com/@aditya_sahu_lab/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Sahu</a> on <a href="https://unsplash.com/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+:::
+
+## Sircle {background-image="images/sircle-logo-nobg.png" background-size="35%" background-position="90% 50%"}
+
+> SARA Jai Bhim Circle
+
+<br>
+<br>
+
+::: {.nonincremental}
+
+- Quarterly online community meet-up
+
+- To share success and receive guidance
+
+:::
+
+## 
+
+<br>
+
+::: {.centering}
+
+![](images/sonipat-bhawan.png){width=45%}
+
+[The Ambedkar Educational<br>Society Sonipat, HR]{.r-fit-text}
+
+:::
+
+## SARA Social Media {background-image="images/whatsapp.jpeg" background-position="right" background-size="contain"}
+
+> Pls follow & share
+
+::: {.columns}
+
+::: {.column width="60%" .r-fit-text}
+
+[{{< iconify fa6-brands x-twitter >}}](https://twitter.com/sara_institute) Twitter with `1552` people 
+
+[{{< iconify fa6-brands youtube >}}](https://www.youtube.com/@SARADataScience) YouTube with `+890` people
+
+[{{< iconify fa6-brands linkedin >}}](https://www.linkedin.com/company/sara-institute/) LinkedIn with `+887` people
+
+[{{< iconify fa6-brands whatsapp >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J) WhatsApp Channel with `+844` people
+
+[{{< iconify fa6-brands facebook >}}](https://www.facebook.com/profile.php?id=61564043738390) Facebook with `+97` people
+
+[{{< iconify fa6-brands bluesky >}}](https://bsky.app/profile/sarainstitute.bsky.social) Bluesky with with `+63` people
+
+[{{< iconify fa6-brands instagram >}}](https://www.instagram.com/sara_data_sci/) Instagram with `+57` people
+
+[{{< iconify fa6-brands github >}}](https://github.com/sara-edu) GitHub with `+16` people
+
+:::
+
+::: {.column}
+
+:::
+
+:::
+
+::: {.aside}
+updated on 4 Sept 2026
+:::
+
+
+
+
+
+
+## Contact SARA {background-image="images/sara-logo-medium.png" background-size="20%" background-position="90% 50%"}
+
+::: {.columns }
+
+::: {.column width="70%"}
+::: {.r-fit-text}
+**{{< iconify fa university >}} Address:**<br>
+SARA Institute   
+Dr. Ambedkar Bhavan, Near Dayanand Hospital            
+Kakroi Road, Sonipat, Haryana - 131001, India       
+Google Map Link: <https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6>
+
+<br>
+
+**{{< iconify fa phone >}} Phone:** +91 925 315 2024     
+**{{< iconify fa envelope >}} Email:** [sara.institute.info@gmail.com](mailto:sara.institute.info@gmail.com)  
+**{{< iconify fa globe >}} Website:** <https://sara-edu.netlify.app/>
+
+:::
+:::
+
+::: {.column width="25%" .center}
+:::
+:::
+
+::: aside
+
+[{{< iconify fa6-brands bluesky size=2x >}}](https://bsky.app/profile/sarainstitute.bsky.social) &nbsp; [{{< iconify fa6-brands github size=2x >}}](https://github.com/sara-edu) &nbsp; [{{< iconify fa6-brands instagram size=2x >}}](https://www.instagram.com/sara_data_sci/) &nbsp; [{{< iconify fa6-brands twitter size=2x >}}](https://twitter.com/sara_institute) &nbsp; [{{< iconify fa6-brands facebook size=2x >}}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [{{< iconify fa6-brands youtube size=2x >}}](https://www.youtube.com/@SARADataScience) &nbsp; [{{< iconify fa6-brands linkedin size=2x >}}](https://www.linkedin.com/company/sara-institute/) &nbsp; [{{< iconify fa6-brands whatsapp size=2x >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
+
+:::
+
+## 🚨Help SARA!
+
+> No question is silly, no answer is wrong.
+
+::: {.nonincremental .r-fit-text}
+
+[1. What more do we need to add in our data school modules?]{.fragment .fade-in-then-semi-out}
+
+[2. Should SARA approach other organisations to get sponsorship or donation? Can you help with this?]{.fragment .fade-in-then-semi-out}
+
+[3. Whether to conduct bridge course classes live on YouTube or first on zoom and then later upload on YouTube?]{.fragment .fade-in-then-semi-out}
+
+[4. What should be the prefered language for these online classes?]{.fragment .fade-in-then-semi-out}
+
+[5. Would you like to teach or know anyone who might be interested in pro bono teaching?]{.fragment .fade-in-then-semi-out}
+
+[6. Should SARA buy its own land to build its own space? What should we be worry about?]{.fragment .fade-in-then-semi-out}
+
+[7. Were you able to find about SARA on internet?]{.fragment .fade-in-then-semi-out}
+
+:::
+
+# {background-image="https://images.unsplash.com/vector-1773253588344-b80c5db0b204?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-opacity="25%" background-size="cover" background-position="bottom -525px left -1px"}
+
+::: centering
+ [Thank you!]{.theme-cursive style="font-size: 3em;"}
+
+**SARA Jai Bhim Circle<br>3rd Quarter Meeting will be on Sun 03 Jan 2027**
+:::
+
+::: footer
+Slides are prepared with ❤️ using open-source tools [Positron](https://positron.posit.co/download.html) & [Quarto](https://quarto.org/) from [Posit](https://posit.co/)
+:::
