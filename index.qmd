@@ -22,6 +22,14 @@ title-slide-attributes:
   data-background-position: "bottom -525px left -1px"
 ---
 
+# {background-image="images/oxford.png" background-size="contain" background-position="right"  background-color="#003366"}
+
+[Jai Bhim!]{.theme-cursive style="font-size: 3em; color:white"}
+
+::: footer
+Comment on 2 Sep 2026; [Link of post](https://www.linkedin.com/posts/oxforduni_oxford-after-the-rain-instagram-activity-7500907670200246273--44N?utm_source=share&utm_medium=member_desktop&rcm=ACoAABYsZm8BIUjtOPD8iuzkFH9ksHCDSk4WPjs)
+:::
+
 ## Welcome {.centering}
 
 <br>
@@ -101,14 +109,13 @@ Moderator
 
 ## SARA Education Trust {background-image="images/trustees.png" background-size="50%" background-position="109% 50%"}
 
-> Education for Everyone.
-
-
 ::: {.columns}
 
 ::: {.column}
 
 ::: {.nonincremental}
+
+> Building educational space for first-generation learners.
 
 - 9 community members founded SARA in Apr 2023.
 
@@ -618,7 +625,7 @@ Google Map Link: <https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6>
 # {background-image="https://images.unsplash.com/vector-1773253588344-b80c5db0b204?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-opacity="25%" background-size="cover" background-position="bottom -525px left -1px"}
 
 ::: centering
- [Thank you!]{.theme-cursive style="font-size: 3em;"}
+[Thank you!]{.theme-cursive style="font-size: 3em;"}
 
 **SARA Jai Bhim Circle<br>3rd Quarter Meeting will be on Sun 03 Jan 2027**
 :::
