@@ -494,7 +494,7 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 <a href="https://unsplash.com/illustrations/a-cartoon-triangle-character-using-a-laptop-NolacJp8Xqg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Illustration</a> by <a href="https://unsplash.com/@aditya_sahu_lab/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Sahu</a> on <a href="https://unsplash.com/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 :::
 
-## Sircle {background-image="images/sircle-logo-nobg.png" background-size="35%" background-position="90% 50%"}
+## Sircle 
 
 > SARA Jai Bhim Circle
 
