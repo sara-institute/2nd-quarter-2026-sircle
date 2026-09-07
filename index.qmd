@@ -6,13 +6,14 @@ date-format: full
 format:
   revealjs:
     theme: [default, sara-theme.scss]
-    logo: images/sara-logo-small.png
+    logo: images/logo-sara.png
     slide-number: true
     incremental: false
     menu: true
     scrollable: true
     transition: slide
     lightbox: true
+    embed-resources: true
 filters:
    - roughnotation    
 title-slide-attributes: 
@@ -213,8 +214,6 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 
 - 07 participants received full scholarship
 
-<br>
-
 ![](images/speakers-3sss.png)
 
 :::
@@ -375,7 +374,7 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 <a href="https://unsplash.com/illustrations/a-cartoon-triangle-character-using-a-laptop-NolacJp8Xqg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Illustration</a> by <a href="https://unsplash.com/@aditya_sahu_lab/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Sahu</a> on <a href="https://unsplash.com/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 :::
 
-## SARA 
+## SARA Education Trust
 
 <br>
 <br>
@@ -416,7 +415,7 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 |---|--------------|
 | Donations | [₹2,00,000]{.amount-positive} approx. |
 | Expenses  | [₹2,50,000]{.amount-negative} approx. |
-| Balance   | ₹1,01200 approx. |
+| Balance   | ₹1,01,200 approx. |
 :::
 
 ::: {.aside}
