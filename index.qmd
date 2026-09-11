@@ -105,6 +105,10 @@ Moderator
 [**Savitribai Ramabai (SARA) Institute of Data Science, Sonipat**]{.r-fit-text}
 
 :::
+
+::: footer
+Images are AI generated
+:::
 ---
 
 ## SARA Education Trust {background-image="images/trustees.png" background-size="50%" background-position="109% 50%"}
@@ -115,7 +119,7 @@ Moderator
 
 ::: {.nonincremental}
 
-> Building educational space for first-generation learners.
+> Building open-access educational space for first-generation learners.
 
 - 9 community members founded SARA in Apr 2023.
 
@@ -153,7 +157,7 @@ Moderator
 <br>
 <br>
 
-- 07 Non-profit^1^ schools 
+- 07 Non-profit^1^ schools held 
 
 - Overcome the fear of coding & numbers
 
@@ -344,9 +348,61 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 
 {{< video https://youtu.be/3FiG1TcJ1f8?si=1qTkjyaMRy1g7A9f width="550" height="300" >}}
 
-[{{< iconify octicon:rocket-16 >}} Click to donate books](https://sara-edu.netlify.app/book-club/books-donation/sara_book_donations)
+[{{< iconify octicon:rocket-16 >}} Sign-up for pro-bono teaching](https://sara-edu.netlify.app/book-club/books-donation/sara_book_donations)
 
 ---
+
+## {{< iconify fluent-emoji:rocket >}} Up Coming SARA Projects
+
+
+::: {.panel-tabset}
+
+## 2027 Bridge Course Level 1 
+
+> L1 = Foundation (6-8 content) $\cdot$ L2 = (9 & 10 content) $\cdot$ L3 = (11 & 12 content) 
+
+- From Sep 2027, offline three months L1 foundation course at SARA, Dr. Ambedkar Bhawan, Sonipat.
+
+- 100 students (50 female) priority admission for marginal communities & women.
+
+- Plan funds to provide accommodation and food for 100 days.
+
+- Need pro bono teachers, ideal would be offline.
+
+- Prepare a detailed teaching schedule.
+
+## 2028 Internships
+
+<br>
+
+- Data & research related summer & winter internships
+
+- Need more planning how SARA can have its own project.
+
+
+## 2029 Conference
+
+> 3 Jan Mata Savitribai's Birth Anniversary 
+
+- Inviting scholars to present papers.
+
+- Inviting young students to interact with the scholars.
+
+- Award budding scholars from marginalised communities.
+
+:::
+
+## SARA's 1st own Space {background-image="images/oxford.png" background-size="contain" background-position="right" background-color="#212121"}
+
+- Land at least 500 Gaj (approx 5000 Sq foot) in Delhi NCR
+
+- 1 auditorium for at least 100 students
+
+- Two dormitories (each with 50 capacity beds)
+
+- Guest rooms, meeting rooms, office roooms
+
+- Mess with kitchen facility
 
 ## 🚨Help SARA! {background-image="images/help.png" background-size="20%" background-position="85% 50%"}
 
@@ -445,7 +501,7 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 
 ::: {.column}
 
-> No amount is too small.
+> One rupee. One brick.
 
 <br>
 
@@ -474,13 +530,14 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 <br>
 <br>
 <br>
-<br>
 
 ::: {.columns}
 
 ::: {.column width=65%}
 
-1. Should SARA buy its own land to build its own space? What should we be worry about?
+1. Should SARA buy its own land to build its own space? What else we need to be thinking about?
+
+1. Should SARA annually confer an award on the occasion of Mata Savitribai birthday? 
 
 :::
 
@@ -501,20 +558,32 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 <a href="https://unsplash.com/illustrations/a-cartoon-triangle-character-using-a-laptop-NolacJp8Xqg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Illustration</a> by <a href="https://unsplash.com/@aditya_sahu_lab/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Sahu</a> on <a href="https://unsplash.com/illustrations?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 :::
 
-## Sircle 
-
-> SARA Jai Bhim Circle
+## SARA is similar but
 
 <br>
 <br>
 
-::: {.nonincremental}
+::: {.centering}
+::: {layout-ncol="3"}
 
-- Quarterly online community meet-up
+![Nalanda Academy, Wardha - MH](images/nalanda.svg)  
 
-- To share success and receive guidance
+![Eklavya Foundation, Nagpur - MH](images/ek.jpg)  
+
+![SRC, Pune - MH](images/src.jpg){width="1.25in"}    
 
 :::
+:::
+
+. . .
+
+> [SARA's focus is coding & AI for Babasaheb's children.]{.r-fit-text}
+
+[data justice, responsible AI, exclusionary AI, data colonialism, automated inequality, algorithmic discrimination]{.r-fit-text}
+
+## Data/AI Justice Books
+
+
 
 ## 
 
@@ -525,6 +594,23 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 ![](images/sonipat-bhawan.png){width=45%}
 
 [The Ambedkar Educational<br>Society Sonipat, HR]{.r-fit-text}
+
+[Mr. Satyawan Bhatia (ex-President) $\cdot$ Mr. Rajesh Kataria (President)]{.amount-positive}
+
+:::
+
+## Sircle 
+
+> SARA Jai Bhim Circle
+
+<br>
+<br>
+
+::: {.nonincremental}
+
+- Quarterly online community meet-up.
+
+- To share success & receive guidance from community members.
 
 :::
 
@@ -540,9 +626,9 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 
 [{{< iconify fa6-brands youtube >}}](https://www.youtube.com/@SARADataScience) YouTube with `+890` people
 
-[{{< iconify fa6-brands linkedin >}}](https://www.linkedin.com/company/sara-institute/) LinkedIn with `+887` people
-
 [{{< iconify fa6-brands whatsapp >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J) WhatsApp Channel with `+844` people
+
+[{{< iconify fa6-brands linkedin >}}](https://www.linkedin.com/company/sara-institute/) LinkedIn with `+600` people
 
 [{{< iconify fa6-brands facebook >}}](https://www.facebook.com/profile.php?id=61564043738390) Facebook with `+97` people
 
@@ -561,7 +647,7 @@ Participants of the SARA Coding Bootcamps "Publish using Quarto"
 :::
 
 ::: {.aside}
-updated on 4 Sept 2026
+updated on 10 Sept 2026
 :::
 
 
@@ -600,28 +686,6 @@ Google Map Link: <https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6>
 
 :::
 
-## 🚨Help SARA!
-
-> No question is silly, no answer is wrong.
-
-::: {.nonincremental .r-fit-text}
-
-[1. What more do we need to add in our data school modules?]{.fragment .fade-in-then-semi-out}
-
-[2. Should SARA approach other organisations to get sponsorship or donation? Can you help with this?]{.fragment .fade-in-then-semi-out}
-
-[3. Whether to conduct bridge course classes live on YouTube or first on zoom and then later upload on YouTube?]{.fragment .fade-in-then-semi-out}
-
-[4. What should be the prefered language for these online classes?]{.fragment .fade-in-then-semi-out}
-
-[5. Would you like to teach or know anyone who might be interested in pro bono teaching?]{.fragment .fade-in-then-semi-out}
-
-[6. Should SARA buy its own land to build its own space? What should we be worry about?]{.fragment .fade-in-then-semi-out}
-
-[7. Were you able to find about SARA on internet?]{.fragment .fade-in-then-semi-out}
-
-:::
-
 # {background-image="https://images.unsplash.com/vector-1773253588344-b80c5db0b204?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-opacity="25%" background-size="cover" background-position="bottom -525px left -1px"}
 
 ::: centering
@@ -633,3 +697,79 @@ Google Map Link: <https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6>
 ::: footer
 Slides are prepared with ❤️ using open-source tools [Positron](https://positron.posit.co/download.html) & [Quarto](https://quarto.org/) from [Posit](https://posit.co/)
 :::
+
+# Let's Discuss! {background-image="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXEzb3loMDJ3azQ2cWtyOWZpYTR5aWpoYWR2NzRxMGxvYWxldHRndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nY72ifeAVJBXZdeXPu/giphy.gif" background-size="40%" background-position="95% 50%" background-color="#212121"}
+
+No question is silly, no answer is wrong.
+
+## Question 1/8
+
+<br>
+<br>
+<br>
+
+[What else should be added to our Data School curriculum?]{.r-fit-text}
+
+## Question 2/8
+
+<br>
+<br>
+<br>
+
+[Should SARA approach other organizations for sponsorships?]{.r-fit-text}
+
+## Question 3/8
+
+<br>
+<br>
+<br>
+
+[Should Bridge Course classes be live-streamed on YouTube directly,<br> or held on Zoom first and uploaded to YouTube afterward?]{.r-fit-text}
+
+## Question 4/8
+
+<br>
+<br>
+<br>
+
+[What language should be used for these online classes?]{.r-fit-text}
+
+## Question 5/8
+
+<br>
+<br>
+<br>
+
+[Would you be interested in teaching pro bono,<br> or do you know someone who might be?]{.r-fit-text}
+
+## Question 6/8
+
+<br>
+<br>
+<br>
+
+[Should SARA buy its own land to build a permanent space?]{.r-fit-text}
+
+[What else should SARA be thinking about (as an organization)?]{.r-fit-text}
+
+
+## Question 7/8
+
+<br>
+<br>
+<br>
+
+[Should SARA give an annual award in<br> honor of Savitribai Phule's birthday?]{.r-fit-text}
+
+
+## Question 8/8
+
+<br>
+<br>
+<br>
+
+[What's the best way for SARA to keep supporters updated?]{.r-fit-text}
+
+
+
+
