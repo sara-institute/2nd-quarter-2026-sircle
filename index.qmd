@@ -7,9 +7,9 @@ format:
   revealjs:
     theme: [default, sara-theme.scss]
     logo: images/logo-sara.png
-    slide-number: true
+    #slide-number: true
     incremental: false
-    menu: true
+    menu: false
     scrollable: true
     transition: slide
     lightbox: true
@@ -69,10 +69,10 @@ title-slide-attributes:
 
 ::: {.fragment}
 
-1. Introductions (5 min)  
-1. About SARA (20-25 min)  
-1. Discussion (45-50 min)  
-1. Insights (10 min)
+1. [Introductions (5 min)]{.rn-fragment}  
+1. [About SARA (20-25 min)]{.rn-fragment}  
+1. [Discussion (45-50 min)]{.rn-fragment}  
+1. [Insights (10 min)]{.rn-fragment}
 
 :::
 
@@ -106,7 +106,7 @@ Presenter
 
 ![](images/sara-logo-medium.png){width="60%"}
 
-::: {.r-fit-text}
+::: {.amount-positive}
 Introductions (5 min)  
 About SARA (20-25 min)  
 Discussion (45-50 min)  
@@ -676,7 +676,7 @@ Thank you Mr. Diwakar for creating the logo of SARA Jai Bhim Circle.
 
 . . .
 
-> [algorithmic discrimination, data colonialism, data justice, exclusionary AI, automated inequality, ]{.r-fit-text}
+> [algorithmic discrimination, data colonialism, data justice, exclusionary AI, automated inequality, ]{.r-fit-text .rn-fragment rn-color=gold}
 
 . . .
 
@@ -768,7 +768,7 @@ Google Map Link: <https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6>
 ::: centering
 [Thank you!]{.theme-cursive style="font-size: 3em;"}
 
-**SARA Jai Bhim Circle**<br>[**Quarter III Meeting will be on Sun 03 Jan 2027**]{.amount-positive}
+[*SARA Jai Bhim Circle*]{.amount-positive}<br>IIIrd Quarter Meeting will be on Sun 03 Jan 2027
 :::
 
 ::: footer
